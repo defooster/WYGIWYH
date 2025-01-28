@@ -351,7 +351,7 @@ The Calendar view presents your transactions in a monthly calendar format, allow
 > [!NOTE]
 > Reference dates are **not** taken into account here.
 
-### Networh
+### Net Worth
 
 #### Current
 
